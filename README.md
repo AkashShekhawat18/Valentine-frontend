@@ -6,7 +6,7 @@ Built using pure **HTML, CSS, and JavaScript**.
 ---
 
 ## 🚀 Live Demo
-👉 https://AkashShekhawat18.github.io/valentine-ask/?name=Anshi
+👉 https://AkashShekhawat18.github.io/valentine-ask/?name=index
 
 (Replace `USERNAME` with your GitHub username)
 
