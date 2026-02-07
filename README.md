@@ -6,11 +6,7 @@ Built using pure **HTML, CSS, and JavaScript**.
 ---
 
 ## 🚀 Live Demo
-👉 https://AkashShekhawat18.github.io/valentine-ask/?name=index
-
-(Replace `USERNAME` with your GitHub username)
-
----
+👉 https://akashshekhawat18.github.io/Valentine-frontend/?name=Anshi
 
 ## ✨ Features
 - 🎯 Direct Valentine animation on homepage
